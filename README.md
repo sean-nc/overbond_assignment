@@ -10,7 +10,7 @@ To run the program, simply type `ruby run.rb` in console and press enter, you wi
 
 #### Testing
 
-To check the testing type `ruby tests.rb` in conole and press enter.
+To check the testing type `ruby tests.rb` in console and press enter.
 
 #### Adding your own CSV
 
